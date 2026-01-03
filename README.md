@@ -1,4 +1,4 @@
-# 📱 Mobile Phone Web Scraper (Unique.com.mm)
+# 📱 Mobile Phone Web Scraper (Educational Purpose)
 
 ## 📌 Overview
 
